@@ -6,7 +6,7 @@ using System.Collections.Generic;
 public class Post_Image : MonoBehaviour {
 
 	//パラメータ（今回は年齢性別，笑顔，お楽しみ判定機能のみ実施）
-	public string APIKey="475770492f51726d41495437782f314c694b50396246473375374f6757554e2f4d5035454672375a723644";
+	public string APIKey="登録したAPIKeyをいれてください";
 	public string optionFlgMinFaceWidth="1";
 	public string facePartsCoordinates="0";
 	public string blinkJudge="0";
